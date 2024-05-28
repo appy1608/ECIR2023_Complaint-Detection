@@ -1,9 +1,9 @@
 # ECIR2023_Multimodal Complaint-Detection
 
 
-Knowing What and How: A Multi-modal Framework for Complaint Detection
+Knowing What and How: A Multi-modal Aspect-Based Framework for Complaint Detection
 
-This repository contains the dataset and code for our ECIR 2023 paper: Knowing What and How: A Multi-modal Framework for Complaint Detection
+This repository contains the dataset and code for our work "Knowing What and How: A Multi-modal Aspect-Based Framework for Complaint Detection", accepted in ECIR 2023.
 
 **CESAMARD Dataset**
 
