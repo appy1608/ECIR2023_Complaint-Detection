@@ -2,7 +2,7 @@
 
 **[Knowing What and How: A Multi-modal Aspect-Based Framework for Complaint Detection](https://link.springer.com/chapter/10.1007/978-3-031-28238-6_9)**
 
-This repository contains the dataset and code for our work "Knowing What and How: A Multi-modal Aspect-Based Framework for Complaint Detection", accepted in ECIR 2023.
+This repository contains the resource files for our work "Knowing What and How: A Multi-modal Aspect-Based Framework for Complaint Detection", accepted in ECIR 2023.
 
 **CESAMARD Dataset**
 
